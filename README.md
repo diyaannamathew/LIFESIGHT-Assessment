@@ -4,7 +4,7 @@
 Marketing Mix Model for Revenue Analysis
 This project presents a single-stage Marketing Mix Model (MMM) built to explain and predict revenue based on various marketing and business drivers.
 
-#1. Data Preparation
+*1. Data Preparation*
 Data was prepared to handle key time-series challenges:
 
 Adstock Transformation: A decay rate of 0.5 was applied to paid media spend to capture the long-term impact of advertising.
